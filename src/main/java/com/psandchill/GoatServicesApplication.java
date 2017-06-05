@@ -26,9 +26,9 @@ public class GoatServicesApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... strings) throws Exception {
-		clearData();
+		/*clearData();
 		saveData();
-		showData();
+		showData();*/
 	}
 
 	private void showData() {
